@@ -3,7 +3,8 @@ Just a new guy
 
 ```mermaid
 
-sequenceDiagram
+    sequenceDiagram
+    
     loop Daily query
         Alice->>Bob: Hello Bob, how are you?
         alt is sick
